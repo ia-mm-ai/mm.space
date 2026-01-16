@@ -1,0 +1,7 @@
+{
+  "role": "witness",
+  "witness_of": "https://third.site/root.json",
+  "instances_index": "https://third.site/instances/index.json",
+  "status": "derivative",
+  "updated_at": "2026-01-16T00:00:00Z"
+}
